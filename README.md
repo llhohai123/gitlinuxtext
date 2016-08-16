@@ -1,1 +1,1 @@
-# gitlinuxtext
+# first project with qt & git
